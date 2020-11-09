@@ -1,0 +1,25 @@
+Line 892: Class ATVGuard.Abutton of control Abutton5 was not a loaded control class.
+Line 918: Class ATVGuard.Abutton of control Abutton3 was not a loaded control class.
+Line 944: Class ATVGuard.ProgressBar of control PBFix was not a loaded control class.
+Line 898: The property name _ExtentX in Abutton5 is invalid.
+Line 899: The property name _ExtentY in Abutton5 is invalid.
+Line 900: The property name ButtonStyle in Abutton5 is invalid.
+Line 902: The property name BackColorPressed in Abutton5 is invalid.
+Line 903: The property name BackColorHover in Abutton5 is invalid.
+Line 904: The property name BorderColor in Abutton5 is invalid.
+Line 905: The property name BorderColorPressed in Abutton5 is invalid.
+Line 906: The property name BorderColorHover in Abutton5 is invalid.
+Line 907: The property name Caption in Abutton5 is invalid.
+Line 924: The property name _ExtentX in Abutton3 is invalid.
+Line 925: The property name _ExtentY in Abutton3 is invalid.
+Line 926: The property name ButtonStyle in Abutton3 is invalid.
+Line 928: The property name BackColorPressed in Abutton3 is invalid.
+Line 929: The property name BackColorHover in Abutton3 is invalid.
+Line 930: The property name BorderColor in Abutton3 is invalid.
+Line 931: The property name BorderColorPressed in Abutton3 is invalid.
+Line 932: The property name BorderColorHover in Abutton3 is invalid.
+Line 933: The property name Caption in Abutton3 is invalid.
+Line 950: The property name _ExtentX in PBFix is invalid.
+Line 951: The property name _ExtentY in PBFix is invalid.
+Line 952: The property name Color in PBFix is invalid.
+Line 953: The property name Color2 in PBFix is invalid.

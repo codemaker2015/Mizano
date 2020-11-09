@@ -1,0 +1,33 @@
+Line 715: Class ATVGuard.Abutton of control a3 was not a loaded control class.
+Line 742: Class ATVGuard.Abutton of control a2 was not a loaded control class.
+Line 769: Class ATVGuard.Abutton of control a1 was not a loaded control class.
+Line 721: The property name _ExtentX in a3 is invalid.
+Line 722: The property name _ExtentY in a3 is invalid.
+Line 723: The property name ButtonStyle in a3 is invalid.
+Line 725: The property name BackColorPressed in a3 is invalid.
+Line 726: The property name BackColorHover in a3 is invalid.
+Line 727: The property name BorderColor in a3 is invalid.
+Line 728: The property name BorderColorPressed in a3 is invalid.
+Line 729: The property name BorderColorHover in a3 is invalid.
+Line 730: The property name Caption in a3 is invalid.
+Line 731: The property name HandPointer in a3 is invalid.
+Line 748: The property name _ExtentX in a2 is invalid.
+Line 749: The property name _ExtentY in a2 is invalid.
+Line 750: The property name ButtonStyle in a2 is invalid.
+Line 752: The property name BackColorPressed in a2 is invalid.
+Line 753: The property name BackColorHover in a2 is invalid.
+Line 754: The property name BorderColor in a2 is invalid.
+Line 755: The property name BorderColorPressed in a2 is invalid.
+Line 756: The property name BorderColorHover in a2 is invalid.
+Line 757: The property name Caption in a2 is invalid.
+Line 758: The property name HandPointer in a2 is invalid.
+Line 775: The property name _ExtentX in a1 is invalid.
+Line 776: The property name _ExtentY in a1 is invalid.
+Line 777: The property name ButtonStyle in a1 is invalid.
+Line 779: The property name BackColorPressed in a1 is invalid.
+Line 780: The property name BackColorHover in a1 is invalid.
+Line 781: The property name BorderColor in a1 is invalid.
+Line 782: The property name BorderColorPressed in a1 is invalid.
+Line 783: The property name BorderColorHover in a1 is invalid.
+Line 784: The property name Caption in a1 is invalid.
+Line 785: The property name HandPointer in a1 is invalid.
